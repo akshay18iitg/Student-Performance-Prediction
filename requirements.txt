@@ -1,4 +1,4 @@
-numpy==1.23.0
+numpy==1.23.5
 pandas
 matplotlib
 seaborn
@@ -6,3 +6,4 @@ scikit-learn
 dill
 catboost
 xgboost
+flask
